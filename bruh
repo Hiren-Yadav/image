@@ -1,0 +1,44 @@
+<Head>
+<title>
+Yoshi
+</Title>
+<style>
+body {
+background-image: url(C:/Bleach/luffy.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+p.first-para { 
+color: Black; font-size: 50px; text-align: center;
+  text-shadow: 4px 4px 4px rgba(255, 255, 255, 0.9);
+} 
+p.second-para { color: white; font-size: 25px; text-align: left;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.9);
+}
+a { text-decoration: underline;
+color: white;
+}
+.video-container {
+max-width: 640px;
+margin: auto;
+}
+</style>
+</head>
+<body>
+<p class="first-para"> Yoshi </p>
+<p class="second-para"> Yeah, I'm really hyped for gear 5 but<br>
+well whaterver I just started doing some programming<br>
+and I have realized that it is like a rabbit's hole from<br>
+which no one would like to come out of.<br>
+(btw it's my first perfect website 😊)
+                &
+Here is <a href="https://www.youtube.com/shorts/SXHMnicI6Pg" target="_blank"> MY Anime List</a>, if ya wanna check out what animes<br> I have watched.
+(the underlined text is a link, click on it)
+
+<div clas="video-container">
+<video width="640" and height="360" controls autoplay loop muted>
+<source src="C:\Bleach\enel.mp4">
+</video>
+</div>
+</body>
+</html>
